@@ -46,8 +46,11 @@ You are required to model the price of houses with the available independent var
 - Optimal value for Ridge regression is 8 and for Lasso regression is 0.001.
 
 - Ridge Regression R2 Square are:-
+- 
 Train Data R2 square value is 0.94354265961746 and for Test data R2 square value is 0.8944768674326166
-- Ridge Regression R2 Square are:-
+
+- Lasso Regression R2 Square are:-
+
 Train Data R2 square value is 0.9424639532374802 and for Test data R2 square value is 0.8885944800228901
 
 - Normal distribution of error terms:-
