@@ -1,5 +1,6 @@
 # Surprise Housing _Case study
-> **Problem Statement and Business Objective:**
+**Problem Statement and Business Objective:**
+
 A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. For the same purpose, the company has collected a data set from the sale of houses in Australia. The data is provided in the CSV file below.
 The company is looking at prospective properties to buy to enter the market. You are required to build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not.
 
@@ -22,6 +23,7 @@ You are required to model the price of houses with the available independent var
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
+
 A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. For the same purpose, the company has collected a data set from the sale of houses in Australia. The data is provided in the CSV file below.
 The company is looking at prospective properties to buy to enter the market. You are required to build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not.
 
@@ -33,13 +35,13 @@ You are required to model the price of houses with the available independent var
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
+
 - Top 5 most important predictor variables are 
-- 
-'OverallQual_9',
-'OverallCond_9',
-'OverallQual_8',
-'GrLivArea',
-'Neighborhood_Crawfor'
+1>'OverallQual_9',
+2>'OverallCond_9',
+3>'OverallQual_8',
+4>'GrLivArea',
+5>'Neighborhood_Crawfor'
 
 - Optimal value for Ridge regression is 8 and for Lasso regression is 0.001.
 
@@ -57,6 +59,7 @@ The data points are spread across equally without a prominent pattern, it means 
 
 
 ## Technologies Used
+
 - library 1 -pandas
 -library 2- matplotlib
 -library 3- warnings
@@ -69,6 +72,7 @@ The data points are spread across equally without a prominent pattern, it means 
 
 ## Acknowledgements
 Give credit here.
+
 This project is completed after successfully completing the Advance learning session module provided by IIITB & UpGrad .
 
 
