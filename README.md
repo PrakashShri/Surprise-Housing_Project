@@ -65,7 +65,7 @@ You are required to model the price of houses with the available independent var
 
 ## Technologies Used
 
-- library 1 -pandas
+-library 1 -pandas
 
 -library 2- matplotlib
 
