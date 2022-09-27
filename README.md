@@ -66,11 +66,17 @@ You are required to model the price of houses with the available independent var
 ## Technologies Used
 
 - library 1 -pandas
+
 -library 2- matplotlib
+
 -library 3- warnings
+
 -library 4 -numpy
+
 -library 5 -seaborn
+
 -library 6- sklearn
+
 -library 7-statsmodels
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
